@@ -8,8 +8,8 @@ import org.junit.*
 /**
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
  */
-@TestFor(TestController)
-class TestControllerTests {
+@TestFor(JsoupController)
+class JsoupControllerTests {
 
     void testSomething() {
         fail "Implement me"

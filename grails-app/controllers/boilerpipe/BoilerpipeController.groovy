@@ -2,7 +2,7 @@ package boilerpipe
 
 import de.l3s.boilerpipe.extractors.ArticleExtractor
 
-class TestController {
+class BoilerpipeController {
 
     def index() {
         render(view:"index")
